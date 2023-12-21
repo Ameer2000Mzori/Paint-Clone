@@ -18,12 +18,11 @@
 
 # 📖 About This Project <a name="about-project"></a>
 
-> Paint-Clone website is created with HTML, SCSS, and TypeScript. It allows users to paint, download their artwork, choose colors, and more. Linters are employed to address code issues and maintain clean code practices. Please check out the live demo for an interactive experience.
+> Paint-Clone website is created with HTML, SCSS, and TypeScript.
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
 ![alt text](./sample/1.png)
-![alt text](./sample/2.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,11 +33,9 @@
   <ul>
   <li><a href="https://en.wikipedia.org/wiki/HTML">Html</a></li>
   <li><a href="https://en.wikipedia.org/wiki/CSS">Css</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">Scss</a></li>
   <li><a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></li>
   <li><a href="https://stylelint.io/">Html/CSS Linters</a></li>
-  <li><a href="https://eslint.org/">eslinters/TsLinters</a></li>
+
   </ul>
 </details>
 
@@ -46,12 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Responsive Website]**
 - **[Flex & Grid]**
-- **[SCSS ]**
-- **[TypeScript ]**
-- **[Linters ]**
-- **[Tslint ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
